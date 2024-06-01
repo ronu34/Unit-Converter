@@ -1,0 +1,14 @@
+D:\source\repos\Unit Converter\bin\Debug\net8.0\Unit Converter.exe
+D:\source\repos\Unit Converter\bin\Debug\net8.0\Unit Converter.deps.json
+D:\source\repos\Unit Converter\bin\Debug\net8.0\Unit Converter.runtimeconfig.json
+D:\source\repos\Unit Converter\bin\Debug\net8.0\Unit Converter.dll
+D:\source\repos\Unit Converter\bin\Debug\net8.0\Unit Converter.pdb
+D:\source\repos\Unit Converter\obj\Debug\net8.0\Unit Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Unit Converter\obj\Debug\net8.0\Unit Converter.AssemblyInfoInputs.cache
+D:\source\repos\Unit Converter\obj\Debug\net8.0\Unit Converter.AssemblyInfo.cs
+D:\source\repos\Unit Converter\obj\Debug\net8.0\Unit Converter.csproj.CoreCompileInputs.cache
+D:\source\repos\Unit Converter\obj\Debug\net8.0\Unit Converter.dll
+D:\source\repos\Unit Converter\obj\Debug\net8.0\refint\Unit Converter.dll
+D:\source\repos\Unit Converter\obj\Debug\net8.0\Unit Converter.pdb
+D:\source\repos\Unit Converter\obj\Debug\net8.0\Unit Converter.genruntimeconfig.cache
+D:\source\repos\Unit Converter\obj\Debug\net8.0\ref\Unit Converter.dll

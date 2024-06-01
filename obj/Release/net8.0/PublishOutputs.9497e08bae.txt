@@ -1,0 +1,5 @@
+D:\source\repos\Unit Converter\bin\Release\net8.0\app.publish\Unit Converter.exe
+D:\source\repos\Unit Converter\bin\Release\net8.0\app.publish\Unit Converter.dll
+D:\source\repos\Unit Converter\bin\Release\net8.0\app.publish\Unit Converter.deps.json
+D:\source\repos\Unit Converter\bin\Release\net8.0\app.publish\Unit Converter.runtimeconfig.json
+D:\source\repos\Unit Converter\bin\Release\net8.0\app.publish\Unit Converter.pdb
